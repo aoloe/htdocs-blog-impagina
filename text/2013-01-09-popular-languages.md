@@ -1,7 +1,7 @@
 ---
-date:8.1.2013
-title:C++ and the popularity of languages
-tags:scribus,c++,programming
+    date:8.1.2013
+    title:C++ and the popularity of languages
+    tags:scribus,c++,programming
 ---
 
 ![IEEE graph on languages popularity](https://raw.github.com/aoloe/htdocs-blog-impagina/master/image/2013-01-09-popular-languages.jpg "IEEE graph on languages popularity")
