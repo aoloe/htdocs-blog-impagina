@@ -5,6 +5,7 @@
 ---
 
 ![IEEE graph on languages popularity](https://raw.github.com/aoloe/htdocs-blog-impagina/master/image/2013-01-09-popular-languages.jpg "IEEE graph on languages popularity")
+
 One thing that bothers me: why is it so hard to find people programming in C++?<br />
 The questions is related to the hard time we have in finding new contributors for Scribus. But it seems that many other projects are facing the same fate.
 
