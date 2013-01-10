@@ -14,3 +14,5 @@ So, one way to avoid conflict ­ or at least make it easier to check and solve t
 - the changes are easier to merge
 
 Eventually, it should be even useful to separate the information about the content and the container.
+
+This blog is also a bit of a playground for publishing content by abusing a site meant for sharing code...
