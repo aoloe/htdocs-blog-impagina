@@ -9,4 +9,3 @@ Today's post by Aaron Seigo ([QML component API's to come together?](http://asei
 Seeing how healthy the Android and iOS markets are, I dare to postulate that choosing technologies which are popular for "mobile programming" could motivate people to contribute to a Desktop oriented project like Scribus... And it does not look like the worst way to get your software to be compatible with both the work at the desk and on the go...
 
 Are Objective-C, Java and QML the languages of choice for future  tools? I must give QML a try!
-
