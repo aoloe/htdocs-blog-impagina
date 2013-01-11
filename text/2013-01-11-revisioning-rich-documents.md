@@ -1,5 +1,5 @@
 ---
-title:
+title: 
 ---
 Among the most common requests for Scribus many relate to getting several people to collaborate while working on a document.
 We hear often questions about collaboration. A straightforward way to implement it would be to share the documents through an existing revision system like SVN or GIT. If it works so well for sharing code, why shouldn't it work also for content? Well, big problems arise when merging files that have conflicting changes. Or even changes that seem to be conflicting.
@@ -9,10 +9,11 @@ And, here, also merging code can also produce headaches:
 
 -> rich content documents
 
-So, one way to avoid conflict ­ or at least make it easier to check and solve the conflicts ­ would be to store the document in smaller parts:
+So, one way to avoid conflict – or at least make it easier to check and solve the conflicts – would be to store the document in smaller parts:
 - fewer chances that a file is edited in parallel
 - the changes are easier to merge
 
 Eventually, it should be even useful to separate the information about the content and the container.
 
 This blog is also a bit of a playground for publishing content by abusing a site meant for sharing code...
+It's possible to manage in a distributed way rich text, but this is done by reducing the formatting to a very simple form: markdown. And it's very hard to think that markdown would be enough for any work with more advanced typographic needs.
