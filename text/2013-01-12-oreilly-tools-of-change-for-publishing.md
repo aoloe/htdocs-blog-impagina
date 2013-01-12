@@ -16,7 +16,7 @@ So, even if we won't be at O'Reilly's TOC Conference, I will go through the sche
 
 ### [Get Better at Git: Applying Version Control to Publishing](http://www.toccon.com/toc2013/public/schedule/detail/26977); Tim Berglund (GitHub, Inc.), Matthew McCullough (GitHub, Inc.)
 
-At this specific point, probably [one of the two topics] [1] that are most interesting for me: how to use standard tools for collaboration on rich documents. This same blog post is written (and if you're not reading this on google+ also published) through GitHub. But as far as I know, Markdown is all I can use for rich text formatting. Embedding HTML – despite being the correct way to add more complex formatting in a Markdown document – would already make it hard to merge, at least for people who like to state "Hey, I'm no coder".
+At this specific point, probably [one of the two topics] [^1] that are most interesting for me: how to use standard tools for collaboration on rich documents. This same blog post is written (and if you're not reading this on google+ also published) through GitHub. But as far as I know, Markdown is all I can use [^2] for rich text formatting. Embedding HTML – despite being the correct way to add more complex formatting in a Markdown document – would already make it hard to merge, at least for people who like to state "Hey, I'm no coder".
 
 The real challenges start when you want to take into account the typographic quality of your document. How do you merge the corrections from a proof reader with the typographical fine tuning from the layouter?
 
@@ -87,6 +87,6 @@ Debate: eBooks vs. Web Apps For Interactive Content
 Bill McCoy (International Digital Publishing Forum (IDPF)), Sanders Kleinfeld (O'Reilly Media, Inc.)
 Should publishers develop and deliver highly interactive digital experiences as eBooks or as apps coded by Web developers? When is your digital content a “book”, and when is it an “app”, and is there a meaningful distinction to be made between the two anymore? Is the difference between “born digital” content and “enhanced” titles a matter of degree or a fundamental dichotomy? As E Ink-based dedicated eReaders give way to much more capable tablets and smartphones, what are the opportunities and risks in leveraging the new capabilities to deliver more engaging experiences to readers? Sanders Kleinfeld, author and Publishing Technology Engineer at O’Reilly Media, and Bill McCoy, Executive Director of the IDPF, the organization that develops EPUB, will discuss the issues and debate the pros and cons of app vs. eBook approaches. The focus will be on practical guidance for publishers on the teams, tools and workflows they should be putting in place now.
 
-[1] The other one being: how to get publishing tools to play nice – really nice! – together.
+[^1]: The other one being: how to get publishing tools to play nice – really nice! – together.
 
-[2] Do footnotes really work?
+[^2]: While inserting the previous footnote I wanted to put a second notice about Markdown not being able to even footnotes: Mardown vs. Me 1:0.
