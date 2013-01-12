@@ -16,7 +16,7 @@ So, even if we won't be at O'Reilly's TOC Conference, I will go through the sche
 
 ### [Get Better at Git: Applying Version Control to Publishing](http://www.toccon.com/toc2013/public/schedule/detail/26977); Tim Berglund (GitHub, Inc.), Matthew McCullough (GitHub, Inc.)
 
-At this specific point, probably one of the two topics that are most interesting for me: how to use standard tools for collaboration on rich documents [1]. This same blog post is written (and if you're not reading this on google+ also published) through GitHub. But as far as I know, Markdown is all I can use for rich text formatting. Embedding HTML – despite being the correct way to add more complex formatting in a Markdown document – would already make it hard to merge, at least for people who like to state "Hey, I'm no coder".
+At this specific point, probably [one of the two topics] [1] that are most interesting for me: how to use standard tools for collaboration on rich documents. This same blog post is written (and if you're not reading this on google+ also published) through GitHub. But as far as I know, Markdown is all I can use for rich text formatting. Embedding HTML – despite being the correct way to add more complex formatting in a Markdown document – would already make it hard to merge, at least for people who like to state "Hey, I'm no coder".
 
 The real challenges start when you want to take into account the typographic quality of your document. How do you merge the corrections from a proof reader with the typographical fine tuning from the layouter?
 
