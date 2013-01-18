@@ -1,6 +1,6 @@
 ---
-date:18.1.2013
-title:Tools of Change vs. Future Tools
+    title:Tools of Change vs. Future Tools
+    date:18.1.2013
 ---
 In the follow up to one of my recent posts, [@JeffMcNeil](https://plus.google.com/103683161748775017955/) made me aware of [O'Reilly's "Tools of Change for Publishing" Conference](http://www.toccon.com/toc2013/).
 
