@@ -9,7 +9,7 @@ The real challenges start when you want to take into account the typographic qua
 
 
 11:35am Wednesday, 02/13/2013
-Lean Publishing: The Future of Publishing, for Authors and Publishers
+### Lean Publishing: The Future of Publishing, for Authors and Publishers
 Peter Armstrong (Leanpub)
 
 Lean Publishing is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do. This talk does a deep dive into each of the elements of that definition, understanding the origin and meaning of all its parts. This includes open source software, Lean Startup theory, customer development, blogs and more. It also includes a discussion of the historical origin of Lean Publishing, in both early storytelling and in serial fiction. The talk also covers the evolution of the Lean Publishing ideas from their first iteration focused primarily on authors to their current 2.0 version focused on authors and publishers.
@@ -20,7 +20,7 @@ Leanpub
 Peter Armstrong is the co-founder of Leanpub, and the author of Lean Publishing, Hello! Flex 4 and Flexible Rails. Peter coined the term Lean Publishing, has written a manifesto about it, and is writing an in-progress ebook about it. Leanpub was founded based on the principles in this manifesto.
 
 1:40pm Wednesday, 02/13/2013
-Book as API
+### Book as API
 Hugh McGuire (PressBooks / LibriVox / Iambik ), Alistair Croll (Solve For Interesting)
 
 While we have gone from print to ebook, there is still much potential of digital that ebooks don’t allow, because they are not truly connected to the web. We’ve seen on the web the power of APIs (Application Programming Interfaces) which allow services to be built on top of existing platforms. Think of the multitude of apps that interact with Facebook, of the tools that use Google Maps. Why don’t we have an API for digital books yet? And what will it look like?
@@ -28,7 +28,7 @@ While we have gone from print to ebook, there is still much potential of digital
 This is probably the most exciting question to come out of “Book: A Futurist’s Manifesto—Essays from the bleeding edge of publishing.”
 
 
-Designing And Creating A Social Book App Using Open-source Technologies
+### Designing And Creating A Social Book App Using Open-source Technologies
 Haig Armen (Emily Carr University of Art + Design)
 2:30pm Wednesday, 02/13/2013
 
@@ -43,7 +43,7 @@ How to balance social functionality within a digital book and how to design gest
 See how to combine open source tools to build an affordable social book mobile application.
 
 
-The Open Book
+### The Open Book
 
 2:30pm Wednesday, 02/13/2013
 Laura Dawson (Bowker)
@@ -57,7 +57,7 @@ This will be a very high-level presentation – my goal is to get the book indus
 
 
 9:20am Thursday, 02/14/2013
-Reading Books On Pixels And Paper
+### Reading Books On Pixels And Paper
 Moderated by:
 Max Fenton (maxfenton.com)
 Panelists:
@@ -67,7 +67,7 @@ With our canons on our phones, our highlights in the clouds, libraries that deli
 
 
 11:25am Thursday, 02/14/2013
-Debate: eBooks vs. Web Apps For Interactive Content
+### Debate: eBooks vs. Web Apps For Interactive Content
 Bill McCoy (International Digital Publishing Forum (IDPF)), Sanders Kleinfeld (O'Reilly Media, Inc.)
 Should publishers develop and deliver highly interactive digital experiences as eBooks or as apps coded by Web developers? When is your digital content a “book”, and when is it an “app”, and is there a meaningful distinction to be made between the two anymore? Is the difference between “born digital” content and “enhanced” titles a matter of degree or a fundamental dichotomy? As E Ink-based dedicated eReaders give way to much more capable tablets and smartphones, what are the opportunities and risks in leveraging the new capabilities to deliver more engaging experiences to readers? Sanders Kleinfeld, author and Publishing Technology Engineer at O’Reilly Media, and Bill McCoy, Executive Director of the IDPF, the organization that develops EPUB, will discuss the issues and debate the pros and cons of app vs. eBook approaches. The focus will be on practical guidance for publishers on the teams, tools and workflows they should be putting in place now.
 
@@ -77,7 +77,7 @@ Should publishers develop and deliver highly interactive digital experiences as 
 
 
 1:30pm Tuesday, 02/12/2013
-Achieving Beautiful Typography in eBooks
+### Achieving Beautiful Typography in eBooks
 Anne-Marie Concepcion (Seneca Design & Training Inc.)
 
 We know how to typeset print books, and by now, we know how to crank out EPUBs. It’s time to create some typographical standards for the eBooks we publish. Join publication designer and EPUB expert Anne-Marie Concepcion as she lays out how we can get the twains to meet.
