@@ -1,5 +1,5 @@
 ---
-    date:11.1.2013
+    date:31.1.2013
     title:Are writers looking for working with Scribus?
 ---
 Looking at the Scribus users base, I see three main typologies:
@@ -26,3 +26,5 @@ The most interesting parts: both choose to go for tools that allow them to focus
 The first one went with [TeXnicCenter](http://www.texniccenter.org/), an editor that helps writing LaTeX tags. The second one with IAwriter, an OS X text editor with spelling checking, Mardkown preview and remote storage on Dropbox. He is formatting his text with [Asciidoc](http://www.methods.co.nz/asciidoc/).
 
 While we're been told that [designers will have to learn to code](https://medium.com/design-startups/6c423fc5ccef), it's still a very open question, how far are writers ready to go into the markup world...
+
+All we know is that more and more people want to focus on they're writing and get a [lite](https://github.com/litewrite/litewrite) or [zen](http://www.zenpen.io/) experience..
