@@ -21,7 +21,7 @@ Also, there is a very inspiring [comment](http://news.ycombinator.com/item?id=52
 
 > I want to provide a nice blend between visual editing and source code editing (I'm a developer). Poses and transformations should be edited visually, but scene structure should be edited by hand via the code. This way you get total control over document structure. Creating good visual-only editor would require too much work and maybe it is not possible at all. Do you know any successful FrontPage-style HTML editor? Quite frankly, I don't need it myself, so that is the primary reason, I'm probably not going to build it at this point.
 >
-> Heads should be customizable in the future: https://github.com/darwin/cmx.js/blob/master/app/lib/cmx/entities/actor.coffee#L88
+> Heads should be customizable in the future: [https://github.com/darwin/cmx.js/blob/master/app/lib/cmx/entities/actor.coffee#L88](https://github.com/darwin/cmx.js/blob/master/app/lib/cmx/entities/actor.coffee#L88)
 > 
 > Actually the system already supports attach points, so you can attach items to hands, foots and necks (right now the bubble is attached by default to a head bone).
 > 
