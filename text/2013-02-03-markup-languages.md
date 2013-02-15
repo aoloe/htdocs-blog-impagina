@@ -20,4 +20,19 @@ Here we
 on top of it:
 - for inputting maths in a similar way as latex http://mathscribe.com/author/jqmath.html
 
-The most simple case, I think it's needed in a publishing format and that can't be 
+The most simple case, I think it's needed in a publishing format and that can't be easily in any existing markup language is the style name, both for charas and for paragraphs.
+
+- examles
+
+the question is still open, wether this kinds of formatting are really that important or should not rather be automatically defined:
+- what are character and paragraph styles good for?
+  - captiosn: should automatically get detected
+other feature that I see missing in the markup language (or are hard to enter):
+- gloassary entries (should be that hard to implement)
+
+
+
+personally, i see the biggest interest in using "simple" markup languages, not really in the possibility to get the writer to type the markup by hand, but on being able to correctly and easily merge files in a revision system.
+
+
+One important 
