@@ -1,0 +1,20 @@
+One of the questions I'm asking myself is: what is a classical DTP program – a program like Scribus is – good for?
+
+Two warnings:
+
+- I don't mean what it can be used for, but what it is really made for! Those use cases for which there are no better substitutes
+- I tend to value more, examples that take into account the curent trends in the publishing world.
+
+So, what are those ues cases?
+
+- Still none. But I'm not finished with building this list. In any case your feedback (on the Mailing list, as Ticket here on github or per private mail is welcome!)
+
+Here are some usecases, where I'm still in doubt if a DTP program is best suited:
+
+- Newsletter / Newspaper printed with Spot colors on offset presses. Currently, you still see some of them laying around, but I wonder how fast it's going to be replaced by digital versions.
+
+
+Having seen the "real" use cases for Scribus, I'd like to list the ones that I didn't judge as best fits:
+
+- Packaging: a vector graphics program is probably better suited
+- Full color newsletter / small newspaper: the main target will probably be the net and they will probably be printed on Laser printers or on full colors. The extended color management from a DTP program may not that imporant anymore.

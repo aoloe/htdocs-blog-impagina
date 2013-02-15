@@ -19,10 +19,10 @@ Here we
 
 on top of it:
 - for inputting maths in a similar way as latex http://mathscribe.com/author/jqmath.html
-
+<<<<<<< HEAD
 The most simple case, I think it's needed in a publishing format and that can't be easily in any existing markup language is the style name, both for charas and for paragraphs.
 
-- examles
+- exapmles
 
 the question is still open, wether this kinds of formatting are really that important or should not rather be automatically defined:
 - what are character and paragraph styles good for?
@@ -35,4 +35,20 @@ other feature that I see missing in the markup language (or are hard to enter):
 personally, i see the biggest interest in using "simple" markup languages, not really in the possibility to get the writer to type the markup by hand, but on being able to correctly and easily merge files in a revision system.
 
 
+
 One important 
+
+
+https://www.sharelatex.com/ seems to be a proof that collaborative editing is possible when markdown language is visible... and i guess that latex is the most complete/complex (well, no docbook is probably more complex, from a typing / diffing point of view) language when talkning about markups and typography.
+
+
+
+
+
+A nontechnical user, given a choice between two environments, one of which nags them pedantically over technical details, and another which displays the gist of entered content but perhaps with sometimes screwy formatting which one would win?                                             
+
+Word processors won out over text processors for the nontechnical user partially for this reason.                                                                                                                                                                                              
+
+Postel's law applied to HTML let nontechnical users get things done with less impedance. It's less important now not because it was the wrong choice, but because users have moved higher up the stack to CMSes that handle formatting etc.                                                    
+
+Consistency across browsers back then was only ever of serious concern to professionals in design or browser programming.
