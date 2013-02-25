@@ -9,7 +9,7 @@ But can't we think about it the other way round? What would it be like to prepar
 A search through Google is not very promising:
 - "Android publishing" only shows links on publishing apps to the Android platform
 - "Android DTP" only shows one intersting thread (sea below) and some not really inspiring lists of Apps for designers
-- "iPad DTP" shows the some true facts about design: designers are using Macs.
+- "iPad DTP" shows the some true facts about design: designers are using Macs. There are some very interesting Apps to be found (see below) but most resources are about using DTP tools to produce content for the iPad.
 
 - http://androidforums.com/android-applications/451555-desktop-publisher-android.html
 - http://www.designer-daily.com/14-free-android-apps-for-designers-16957
