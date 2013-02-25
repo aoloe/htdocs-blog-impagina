@@ -19,5 +19,6 @@ A search through Google is not very promising:
 - https://itunes.apple.com/de/app/quark-designpad/id551786067 "Quark DesignPad is a unique iPad app that puts grid-based design control in the palm of your hand. Using an entirely new approach to design, you can quickly experiment with different layouts and create anything from a classified ad to a poster right on your iPad — then share it on Twitter, by email or further develop it in QuarkXPress. Whether you are a design student or a long-time professional, DesignPad can help you get your designs started and collaborate with colleagues, clients and friends."
 - but there are also people looking for Scribus for iPad! http://www.ipadforums.net/ipad-2-forum/49094-desktop-publisher-ipad.html
 - http://spyrestudios.com/30-ipad-apps-for-designers-developers-and-creative-types/
+- http://www.mactalk.com.au/59/109421-desktop-publishing-apps-ipad.html : at the end a list of dtp tools
 
 One thing should make us think a bit: DTP stands for "Desktop Publishing"... not "Tablet Publishing"... a sign that a paradigm change is needed?
