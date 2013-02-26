@@ -20,3 +20,9 @@ Fastforward to today's topic: how to put Scribus on diet and get it to be a bit 
 Three remarks:
 - Why removing existing "working" code? Because, code bloat is one of the main reason, why potential contributors give up. And because too much work goes into improving and fixing bug in tools and features that hardly nobody uses.
 - Some work has to be done, before being able to remove some of the features (syncing with external text, syncing with external vector graphics, ...)
+
+By reading my words, you might think that I'm not happy with the priorities the Scribus "Team" is focusing on. This is only half of the reality. Looking at the Scribus team as a gorup of individuals, I really respect the desire of complete liberty for each of the developers to do what he wants to do. It's their free time, it's their loisir.
+
+In my eyes, most of the current or too far away from their users, and most of all from the users they are targetting. This makes it hard to get a match between the broad interest on what should be in scribus and what makes it into it.
+
+So we have Team members putting time into getting a Haiku port to work, or better support for the MacPict file format, but much more important patches and tasks get ingored.
