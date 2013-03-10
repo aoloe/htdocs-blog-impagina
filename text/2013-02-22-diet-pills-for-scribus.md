@@ -16,6 +16,7 @@ Fastforward to today's topic: how to put Scribus on diet and get it to be a bit 
 - Remove all the PDF form functionality: it does not work well enough, it's not really DTP stuff and I'm not convinced that PDF forms will ever become a mainstream way of collecting data).
 - Remove the Barcode generator (it should be an external tool)
 - Replace the concept of "Render frame" by the one of synced external resources (which would allow to link to external text or images)
+- All the prepress features should be removed and implemented in an external application that would work on the PDF (color separation, print preview, ...). If necessary, Scribus should tag ressources in a way that helps the prepress tasks)
 
 Three remarks:
 - Why removing existing "working" code? Because, code bloat is one of the main reason, why potential contributors give up. And because too much work goes into improving and fixing bug in tools and features that hardly nobody uses.
