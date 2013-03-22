@@ -26,3 +26,18 @@ By reading my words, you might think that I'm not happy with the priorities the 
 In my eyes, most of the current or too far away from their users, and most of all from the users they are targetting. This makes it hard to get a match between the broad interest on what should be in scribus and what makes it into it.
 
 So we have Team members putting time into getting a Haiku port to work, or better support for the MacPict file format, but much more important patches and tasks get ingored.
+
+
+Google cancelling Google Reader.
+
+http://blog.calbucci.com/2013/03/google-is-about-to-learn-tough-lesson.html -> don't mess with the "decision makers and influencers", which are very 
+
+Marcelo Calbucci
+
+
+"A very common mistake entrepreneurs make is to assume that a feature is not necessary because it doesn’t have a lot of usage, thus it can be safely removed from the product. Sometimes that’s the case, but sometimes, not so much. [...] By killing a product that was beloved and heavily used by most influencers, you start to alienate those folks."
+
+http://gigaom.com/2013/03/16/why-google-killed-off-google-reader-it-was-self-defense/ -> Michael Mahemoff,
+
+"Some companies specialize in keeping the status quo, others specialize in moving forward. Google is the latter. If the company maintained every niche product with N thousand fans, even paying ones, it’d become the very bungling bureaucracy we love to hate. For a company with Google’s ethos and standing, any such dead-end, non-revenue-producing product that’s retained is holding others back, and prevents the company from moving forward and making true innovations instead of incremental improvements."""
+
