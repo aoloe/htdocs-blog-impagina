@@ -17,3 +17,5 @@ Eventually, it should be even useful to separate the information about the conte
 
 This blog is also a bit of a playground for publishing content by abusing a site meant for sharing code...
 It's possible to manage in a distributed way rich text, but this is done by reducing the formatting to a very simple form: markdown. And it's very hard to think that markdown would be enough for any work with more advanced typographic needs.
+
+- https://draftin.com/features
