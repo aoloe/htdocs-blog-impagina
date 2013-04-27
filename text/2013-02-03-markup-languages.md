@@ -52,3 +52,15 @@ Word processors won out over text processors for the nontechnical user partially
 Postel's law applied to HTML let nontechnical users get things done with less impedance. It's less important now not because it was the wrong choice, but because users have moved higher up the stack to CMSes that handle formatting etc.                                                    
 
 Consistency across browsers back then was only ever of serious concern to professionals in design or browser programming.
+
+
+# random links
+
+- http://stackoverflow.com/questions/2150867/expanding-php-markdown-to-accept-css-classnames
+- http://en.wikipedia.org/wiki/Textile_%28markup_language%29
+- http://txt2tags.org/docs.html
+- http://mostlylinux.wordpress.com/textanddocument/txt2tagscheatsheet/
+- http://textile.sitemonks.com/
+- https://news.ycombinator.com/item?id=5154464
+- https://github.com/segmentio/socrates
+- http://alistapart.com/article/building-books-with-css3

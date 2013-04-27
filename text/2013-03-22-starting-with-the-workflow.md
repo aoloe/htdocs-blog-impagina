@@ -7,3 +7,7 @@ But it's also the place for submitting the requests for new features. The result
 
 - http://www.antipope.org/charlie/blog-static/2013/03/why-i-dont-self-publish.html by the British science fiction writer Charles Stross
 - http://ms-studio.net/publications/designing-the-lgm-2013-fieldnotes-book/ by Manuel Schmalstieg, a Swiss graphics designer.
+
+
+
+- http://www.mediabistro.com/10000words/how-to-run-a-news-site-and-newspaper-using-wordpress-and-google-docs_b4781

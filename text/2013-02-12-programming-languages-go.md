@@ -13,3 +13,8 @@ Yesterday, I 've been reading [Google Go: The Good, the Bad, and the Meh](http:/
 On the other side, nobody has done something like this yet, so it will be hard to build upon the shoulders of giants...
 
 Go still does not have good bindings to GUI frameworks, but what hinders us from write in the GUI in different languages with a clear API to the core(s)?
+
+
+# Links
+
+- https://blog.mozilla.org/ejpbruel/2013/02/26/linus-torvalds-is-a-terrible-role-model-for-the-open-source-community/

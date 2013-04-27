@@ -10,3 +10,10 @@ The core problem bein the layers of abstraction? Many people, seem to value the 
 One idea is to produce lot of small – highly specific – tools and aggregate them to create a very flexible and powerful application. It would be even more interesting to have each tool programmed in the language and framework that best fits it's purpose or best fits the skills of the programmers who are getting their hands dirty... but, then, we run into the risk of getting to something like Tex: a package that is again very heavy and hard to put together.
 
 And there is one thing that both Damien Katz and the suckless guys agree upon: "[Go is the closest thing to a C replacement on the horizon, but it's not there yet. Ton of potential and nicer syntax.](https://twitter.com/damienkatz/status/289575389641179137)"
+
+# Random links
+
+- https://news.ycombinator.com/item?id=5050700
+- http://theelitegentleman.blogspot.co.uk/2013/01/the-future-of-software-developers.html?m=1
+
+
