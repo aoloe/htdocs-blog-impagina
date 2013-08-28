@@ -15,8 +15,11 @@ Some facts:
 - Despite the "[choose a command line parser ticket](https://github.com/impagina/core/issues/5)" I've opened, we won't use one for now.
 - I've closed [my first ticket](https://github.com/impagina/core/issues/1): -v and -h are implemented.
 - Yes, it's comfortable to work within Qt Creator in FakeVim mode.
-- It's not (at all) easy to define the application name and its version in the .pro file instead of the source code. But I've finally managed it:
+- It's not (at all) easy to define the application name and its version in the .pro file instead of the source code.  
+  But I've finally managed it:
+
       DEFINES += SCRIBUSVERSION=\\\"0.0\\\"
+
   I had to browse a few forums and fail to implement most of the suggested solution, but at the end, I have my `SCRIBUSVERSION` constant in the code. It's 0.0.
 - The [https://github.com/impagina/core/](GitHub project) got one star! The brave guy will get a beer from me...
 - `qmake` and `make` successfully compile the Scribus-core code: you can pull and compile it.  
