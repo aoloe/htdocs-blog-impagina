@@ -1,6 +1,6 @@
 ----
-    title:Drawing Xkcd comics in the browser
-    date:2013-02-13
+    title: Drawing Xkcd comics in the browser
+    date: 13.2.2013
 ----
 
 Here one of the most common feedbacks I get, when I talk about future software projects: do it in the browser!
