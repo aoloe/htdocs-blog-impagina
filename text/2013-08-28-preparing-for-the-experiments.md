@@ -19,4 +19,5 @@ Some facts:
       DEFINES += SCRIBUSVERSION=\\\"0.0\\\"
   I had to browse a few forums and fail to implement most of the suggested solution, but at the end, I have my `SCRIBUSVERSION` constant in the code. It's 0.0.
 - The [https://github.com/impagina/core/](GitHub project) got one star! The brave guy will get a beer from me...
-- `qmake` and `make` successfully compile the Scribus-core code: you can pull and compile it. It won't do anything useful, but at least it won't crash at you!
+- `qmake` and `make` successfully compile the Scribus-core code: you can pull and compile it.  
+   It won't do anything useful, but at least it won't crash at you!
