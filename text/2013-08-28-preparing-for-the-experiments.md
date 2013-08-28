@@ -11,6 +11,7 @@ After having announced to the world, that I'm starting my experiments with the S
 I've spent the biggest part of the day, finding out how to create console applications with Qt, what libraries are there for managing the arguments and finally outputting some information to standard output and error.
 
 Some facts:
+
 - Despite the "[choose a command line parser ticket](https://github.com/impagina/core/issues/5)" I've opened, we won't use one for now.
 - I've closed [my first ticket](https://github.com/impagina/core/issues/1): -v and -h are implemented.
 - Yes, it's comfortable to work within Qt Creator in FakeVim mode.
