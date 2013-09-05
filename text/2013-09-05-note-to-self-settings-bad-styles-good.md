@@ -1,5 +1,5 @@
 ----
-    title: Note to self: settins = bad, styles = good
+    title: "Note to self: settings = bad, styles = good"
     date: 5.9.2013
 ----
 
