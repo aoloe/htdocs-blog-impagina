@@ -13,3 +13,5 @@ For now, it won't have much effect on the reading and writing of `.SLA` files:
 - For the all other tools, we will simply read from the settings, store it as a style and write it again as a setting when exporting to a `.SLA` file. For now, it the difference will be on the semantic level.
 
 And now, let's concentrating on adding all the document settings.
+
+P.S.: Hacking in code, helps refining the ideas... this applies to all the tools that create Items (text, image, lines, ...) and not the tools that modify them (rotate, duplication, ...).
